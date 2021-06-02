@@ -1,4 +1,5 @@
-// Adding a new item to the list:
+// j.Query Code
+// Adding a new item to the list
 function newItem() {
   let li = $('<li></li>');
   let inputValue = $('#input').val();
@@ -9,7 +10,7 @@ function newItem() {
   } else {
     $('#list').append(li);
   }
-// Crossing an item out:
+// Crossing an item out
   function crossOut() {
 		li.toggleClass("strike");
 	}
