@@ -6,9 +6,11 @@ li.append(inputValue);
 
 if (inputValue === '') {
   alert ('You must write something!');
-} else {
+  } else {
   $('#list').append(li);
-}
+  }
+};
+
 // Crossing an item out
   function crossOut() {
     li.toggleClass('strike');
