@@ -1,5 +1,5 @@
 # To-do-list App
-Task 1.9 Introduction to jQuery. A simple app to add and remove items from a (e.g., shoopping list) written in j.Query.
+Task 1.9 Introduction to jQuery. A simple app to add and remove items from a list written in j.Query.
 
 #### To run the app, click this link: 
 
