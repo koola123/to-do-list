@@ -5,7 +5,7 @@ Task 1.9 Introduction to jQuery. A simple app to add and remove items from a lis
 
 <br>
 
-<strong>[LIVE DEMO](https://koola123.github.io/to-do-list-app/)</strong>
+<strong>[LIVE DEMO](https://koola123.github.io/to-do-list/)</strong>
 
 <br>
 
